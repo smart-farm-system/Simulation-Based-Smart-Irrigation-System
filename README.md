@@ -8,7 +8,7 @@ This project is divided into two primary environments:
 1. **Hardware Simulation (Arduino/Proteus):** Implements the embedded fuzzy logic controller using the `eFLL` library to actuate a water pump via PWM based on soil moisture, temperature, and time of day.
 2. **Data Analysis & Visualization (Python):** Utilizes `scikit-fuzzy` to process simulated datasets (Virtual Terminal output), validate the control logic, and generate academic-grade visualizations (Membership Functions, 3D Control Surfaces, Heatmaps).
 
-## 🗂️ Repository Structure
+## 🗂️ Proteus Structure
 
 <img width="765" height="446" alt="image" src="https://github.com/user-attachments/assets/643ac6e6-b005-4f22-aa29-b3dd8c8228af" />
 
